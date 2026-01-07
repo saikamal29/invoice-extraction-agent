@@ -1,6 +1,6 @@
 # 📑 AI Invoice Extraction Agent
 
-An intelligent document processing tool built with **LangChain**, **OpenAI**, and **Pydantic**. This agent iterates through a directory of PDF invoices and extracts structured data (Company, Total, Date, etc.) into a single JSON report.
+An intelligent document processing tool built with **LangChain**, **OpenAI**, and **Pydantic**. This agent iterates through a directory of PDF invoices and extracts structured data (Company, Total, Tax, etc.) into a single JSON report.
 
 ## 🛠 Tech Stack
 - **Language:** Python 3.12+
