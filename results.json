@@ -1,0 +1,44 @@
+{
+    "invoice-0-4.pdf": {
+        "invoice_number": "BPXINV-00550",
+        "total_amount": 6610.95,
+        "tax_amount": 596.45,
+        "company_name": "Bioplex",
+        "company_address": "5 Rue Bader, Narbonne, Aude, 11100"
+    },
+    "invoice-1-3.pdf": {
+        "invoice_number": "1213",
+        "total_amount": 2809.3,
+        "tax_amount": 255.39,
+        "company_name": "Zencorporations",
+        "company_address": "Thomas-Mann-Strasse 38\nBonn, 53111"
+    },
+    "invoice-2-1.pdf": {
+        "invoice_number": "0012820",
+        "total_amount": 16347.54,
+        "tax_amount": null,
+        "company_name": "ConIncorporated",
+        "company_address": "305 Fleet Rd, Fleet, Hampshire County, GU51 3BU"
+    },
+    "invoice-3-0.pdf": {
+        "invoice_number": "4235",
+        "total_amount": 213470.0,
+        "tax_amount": 18770.0,
+        "company_name": "Neid",
+        "company_address": "Gillitzerstrasse 10, Rosenheim, BY, 83022"
+    },
+    "invoice-7-0.pdf": {
+        "invoice_number": "NP#00183",
+        "total_amount": 14750.0,
+        "tax_amount": null,
+        "company_name": "notapino",
+        "company_address": "Ria de Goa 1, Amadora, Lisbon, 2720-059"
+    },
+    "sample-invoice.pdf": {
+        "invoice_number": "INV-100",
+        "total_amount": 110.0,
+        "tax_amount": 10.0,
+        "company_name": "CONTOSO LTD.",
+        "company_address": "Contoso Headquarters\n123 456th St\nNew York, NY, 10001"
+    }
+}
